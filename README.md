@@ -18,6 +18,14 @@ Platform overview → https://hybridops.tech/why
 Documentation → https://docs.hybridops.tech  
 Evidence map → https://docs.hybridops.tech/evidence_map  
 
+### Platform Components
+
+• **hybridops-core** — core platform architecture and orchestration layer  
+• **hybridops-workloads** — workload definitions and platform deployments  
+• **terraform-proxmox-sdn** — Terraform module for Proxmox SDN networking  
+• **hybridops-terraform-gitmods** — internal Terraform module registry and dependency management  
+• **Ansible collections** — automation roles and platform operations tooling
+
 ## Selected Work
 
 **[HybridOps Platform Repo](https://github.com/hybridops-tech/hybridops-core)**  
