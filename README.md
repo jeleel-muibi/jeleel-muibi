@@ -1,6 +1,8 @@
 Platform engineering • Hybrid infrastructure • Creator of HybridOps
 
-I build HybridOps — a hybrid infrastructure platform exploring how platform engineering practices can be applied across on-prem and cloud environments through automation, governance, and reproducible infrastructure patterns.
+I build HybridOps — a hybrid infrastructure platform exploring...
+
+---
 
 ## Focus Areas
 
