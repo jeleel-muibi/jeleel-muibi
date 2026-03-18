@@ -1,5 +1,4 @@
-I build HybridOps — a contract-driven hybrid infrastructure platform
-treating on-prem and cloud as first-class environments.
+I build HybridOps — a contract-driven hybrid infrastructure platform treating on-prem and cloud as first-class environments.
 
 ## Focus Areas
 
