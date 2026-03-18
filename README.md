@@ -27,25 +27,27 @@ Evidence map → https://docs.hybridops.tech/evidence_map
 
 ## Selected Work
 
-**HybridOps Platform Repository**
+**[HybridOps Platform Repository](https://github.com/hybridops-tech/hybridops-core)**  
+→ Core implementation of the HybridOps platform.  
 Contract-driven hybrid infrastructure platform with DR governance,
 structured run records and reproducible execution across on-prem and cloud.
 
-**hybridops-network-automation-framework**
-Device-agnostic network automation using Python, Nornir, Scrapli and Napalm,
+**[hybridops-network-automation-framework](https://github.com/jeleel-muibi/hybridops-network-automation-framework)**  
+→ Programmable network automation framework.  
+Device-agnostic automation using Python, Nornir, Scrapli and Napalm,
 with evidence-producing and repeatable workflows.
 
-**hybridops-hybrid-identity-lab**  
-Hybrid Windows infrastructure with Active Directory, Entra ID and Intune
-integration across on-prem and cloud identity boundaries.
+**[hybridops-hybrid-identity-lab](https://github.com/jeleel-muibi/hybridops-hybrid-identity-lab)**  
+→ Hybrid identity and infrastructure lab.  
+Active Directory, Entra ID and Intune integration across on-prem and cloud environments.
 
-**network-security-architecture-lab**  
-Enterprise network security design with layered segmentation, routing
-resilience and access control across realistic topologies.
+**[network-security-architecture-lab](https://github.com/jeleel-muibi/Secure_Network_Access_Project)**  
+→ Enterprise network security architecture.  
+Layered segmentation, routing resilience and access control across realistic topologies.
 
-**enterprise-network-architecture-lab**  
-Multi-site network architecture with redundancy, routing optimisation and
-scalable topology patterns.
+**[enterprise-network-architecture-lab](https://github.com/jeleel-muibi/Network_Optimization_Project)**  
+→ Scalable multi-site network design.  
+Redundancy, routing optimisation and resilient topology patterns.
 
 ---
 
