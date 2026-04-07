@@ -12,7 +12,7 @@ I build HybridOps — a contract-driven hybrid infrastructure platform treating 
 
 Platform overview → https://hybridops.tech/why  
 Documentation → https://docs.hybridops.tech  
-Evidence map → https://docs.hybridops.tech/evidence_map  
+Capability Map → https://docs.hybridops.tech/evidence_map  
 
 ## Platform Components
 
