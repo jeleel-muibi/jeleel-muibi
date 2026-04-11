@@ -46,11 +46,6 @@ Layered segmentation, routing resilience and access control across realistic top
 → Scalable multi-site network design.  
 Redundancy, routing optimisation and resilient topology patterns.
 
-## At a glance
-
-![GitHub Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
-
 ---
 
 As infrastructure becomes easier to generate, the challenge shifts from
