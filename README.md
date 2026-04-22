@@ -22,6 +22,12 @@ Capability Map → https://docs.hybridops.tech/evidence_map
 • hybridops-terraform-gitmods — Terraform module registry and dependency management  
 • Ansible collections — automation roles and operational tooling  
 
+## Open-Source Contributions
+
+• Upstream contributor to [ansible-collections/community.proxmox](https://github.com/ansible-collections/community.proxmox)  
+• Upstream contributor to [geerlingguy/ansible-role-docker](https://github.com/geerlingguy/ansible-role-docker)  
+• Contributor to [netbox-community/ansible_modules](https://github.com/netbox-community/ansible_modules)  
+
 ## Selected Work
 
 **[HybridOps Platform Repository](https://github.com/hybridops-tech/hybridops-core)**  
