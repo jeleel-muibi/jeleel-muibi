@@ -20,7 +20,7 @@ Capability Map → https://docs.hybridops.tech/evidence_map
 • hybridops-workloads — workload definitions and deployment patterns  
 • terraform-proxmox-sdn — Terraform module for Proxmox SDN networking  
 • hybridops-terraform-gitmods — Terraform module registry and dependency management  
-• Ansible collections — automation roles and operational tooling  
+• Ansible Galaxy collections — automation roles and operational tooling  
 
 ## Open-Source Contributions
 
