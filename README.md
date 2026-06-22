@@ -62,4 +62,4 @@ Redundancy, routing optimisation and resilient topology patterns.
 As infrastructure becomes easier to generate, the challenge shifts from
 writing code to designing reliable systems.
 
-[Read more about HybridOps](https://hybridops.tech/goatops/)
+For the origin story: [GoatOps incident report](https://hybridops.tech/goatops/)
