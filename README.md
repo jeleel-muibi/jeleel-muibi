@@ -1,18 +1,23 @@
-I build HybridOps, a contract-driven hybrid infrastructure platform treating on-prem and cloud as first-class environments.
+My work spans hybrid infrastructure, platform engineering, cloud automation, networking, Kubernetes platforms and disaster recovery.
+
+I build HybridOps, a public hybrid infrastructure platform for governed automation, source-of-truth operations, reproducible execution and recovery across on-premises and cloud environments.
 
 ## Focus Areas
 
 - Hybrid infrastructure architecture
 - Infrastructure automation
 - Platform engineering patterns
+- Source-of-truth operations
 - Disaster recovery governance
 - Reproducible infrastructure environments
+- Technical documentation and engineering education
 
 ## HybridOps
 
 - [Platform overview](https://hybridops.tech/why)
 - [Documentation](https://docs.hybridops.tech)
 - [Capability map](https://docs.hybridops.tech/evidence_map)
+- [Reference scenarios](https://docs.hybridops.tech/reference-scenarios/)
 
 ## Platform Components
 
@@ -20,13 +25,19 @@ I build HybridOps, a contract-driven hybrid infrastructure platform treating on-
 - `hybridops-workloads`: workload definitions and deployment patterns
 - `terraform-proxmox-sdn`: Terraform module for Proxmox SDN networking
 - `hybridops-terraform-gitmods`: Terraform module registry and dependency management
-- Ansible Galaxy collections: automation roles and operational tooling
+- Ansible Galaxy collections: reusable automation content and operational tooling
 
 ## Open-Source Contributions
 
 - Contributions to [netbox-community/ansible_modules](https://github.com/netbox-community/ansible_modules): [PR #1547](https://github.com/netbox-community/ansible_modules/pull/1547) and [PR #1546](https://github.com/netbox-community/ansible_modules/pull/1546); credited in the v3.23.0 release history
 - Contributions to [ansible-collections/community.proxmox](https://github.com/ansible-collections/community.proxmox)
 - Contributions to [geerlingguy/ansible-role-docker](https://github.com/geerlingguy/ansible-role-docker)
+
+## Technical Writing
+
+- [HybridOps Blog](https://hybridops.tech/blog)
+- [HackerNoon](https://hackernoon.com/u/jeleel_muibi)
+- [DZone](https://dzone.com/users/5524956/hybridops.html)
 
 ## Selected Work
 
