@@ -46,24 +46,6 @@ HybridOps treats infrastructure as an operating model, not a tool collection. Th
 - [HackerNoon](https://hackernoon.com/u/jeleel_muibi)
 - [DZone](https://dzone.com/users/5524956/hybridops.html)
 
-## Selected Engineering Work
-
-**[HybridOps network automation framework](https://github.com/jeleel-muibi/hybridops-network-automation-framework)**
-
-Programmable network automation using Python, Nornir, Scrapli, and NAPALM, with repeatable workflows and evidence-producing execution.
-
-**[Hybrid identity architecture](https://github.com/jeleel-muibi/hybridops-hybrid-identity-lab)**
-
-Hybrid identity and endpoint management architecture across Active Directory, Entra ID, Intune, and cloud-connected administration patterns.
-
-**[Network security architecture](https://github.com/jeleel-muibi/Secure_Network_Access_Project)**
-
-Layered segmentation, routing resilience, and access control across enterprise-style network topologies.
-
-**[Multi-site network architecture](https://github.com/jeleel-muibi/Network_Optimization_Project)**
-
-Scalable network design with redundancy, route optimisation, and resilient topology patterns.
-
 ## Why This Work Exists
 
 As infrastructure becomes easier to generate, the harder problem is operating it responsibly. HybridOps is built around that problem: clear intent, controlled execution, recovery evidence, and documentation that allows another engineer to understand the system.
