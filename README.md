@@ -12,7 +12,7 @@ HybridOps treats infrastructure as an operating model, not a tool collection. Th
 - Upstream contributor to `ansible-collections/community.proxmox` and `geerlingguy/ansible-role-docker`
 - Author of public technical writing on disaster recovery governance, platform engineering, source-of-truth automation, and infrastructure operating models
 
-## HybridOps
+## HybridOps Entry Points
 
 - [Platform overview](https://hybridops.tech/why)
 - [Documentation](https://docs.hybridops.tech)
@@ -32,31 +32,21 @@ HybridOps treats infrastructure as an operating model, not a tool collection. Th
 - Evidence-producing run records
 - Technical documentation and learning systems
 
-## Platform Components
+## Public Engineering Outputs
 
 - [hybridops-core](https://github.com/hybridops-tech/hybridops-core): orchestration layer, runtime evidence model, modules, blueprints, and platform contracts
 - [terraform-proxmox-sdn](https://github.com/hybridops-tech/terraform-proxmox-sdn): Terraform module for Proxmox SDN networking
 - [hybridops-workloads](https://github.com/hybridops-tech/hybridops-workloads): workload definitions and deployment patterns
 - [hybridops-terraform-gitmods](https://github.com/hybridops-tech/hybridops-terraform-gitmods): Terraform module registry and dependency management
 - Ansible Galaxy collections: `hybridops.common`, `hybridops.app`, `hybridops.network`, and `hybridops.helper`
-
-## Upstream Work
-
 - [netbox-community/ansible_modules](https://github.com/netbox-community/ansible_modules): [PR #1547](https://github.com/netbox-community/ansible_modules/pull/1547) and [PR #1546](https://github.com/netbox-community/ansible_modules/pull/1546)
 - [ansible-collections/community.proxmox](https://github.com/ansible-collections/community.proxmox): Proxmox KVM documentation improvement
 - [geerlingguy/ansible-role-docker](https://github.com/geerlingguy/ansible-role-docker): Docker APT repository override support for mirrors, caches, and restricted-network deployments
-
-## Technical Writing
-
 - [HybridOps Blog](https://hybridops.tech/blog)
 - [HackerNoon](https://hackernoon.com/u/jeleel_muibi)
 - [DZone](https://dzone.com/users/5524956/hybridops.html)
 
 ## Selected Engineering Work
-
-**[HybridOps Core](https://github.com/hybridops-tech/hybridops-core)**
-
-Governed hybrid infrastructure platform with module contracts, preflight checks, structured run records, source-of-truth integration, and disaster recovery controls across on-premises and cloud environments.
 
 **[HybridOps network automation framework](https://github.com/jeleel-muibi/hybridops-network-automation-framework)**
 
