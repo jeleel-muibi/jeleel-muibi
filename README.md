@@ -7,7 +7,7 @@ HybridOps treats infrastructure as an operating model, not a tool collection. Th
 ## Current Work
 
 - Creator and maintainer of [HybridOps Core](https://github.com/hybridops-tech/hybridops-core)
-- Publisher of Terraform and Ansible infrastructure components through public registries
+- Publisher of infrastructure components through [Terraform Registry](https://registry.terraform.io/modules/hybridops-tech/sdn/proxmox) and [Ansible Galaxy](https://galaxy.ansible.com/ui/namespaces/hybridops/)
 - NetBox Ansible collection co-author via maintainer-reviewed upstream PRs
 - Upstream contributor to `ansible-collections/community.proxmox` and `geerlingguy/ansible-role-docker`
 - Author of public technical writing on disaster recovery governance, platform engineering, source-of-truth automation, and infrastructure operating models
