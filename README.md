@@ -2,7 +2,7 @@ I work on governed infrastructure operations across hybrid environments: source 
 
 I create and maintain [HybridOps](https://hybridops.tech), a public hybrid infrastructure platform for operating on-premises and cloud systems through explicit intent, validation, run records, recovery controls, and reusable infrastructure modules.
 
-HybridOps treats infrastructure as an operating model, not a tool collection. The focus is on making infrastructure easier to inspect, reproduce, recover, and hand over.
+The focus is on making infrastructure easier to inspect, reproduce, recover, and hand over.
 
 ## Current Work
 
