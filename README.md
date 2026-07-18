@@ -43,6 +43,7 @@ The focus is on making infrastructure easier to inspect, reproduce, recover, and
 - [ansible-collections/community.proxmox](https://github.com/ansible-collections/community.proxmox): Proxmox KVM documentation improvement
 - [geerlingguy/ansible-role-docker](https://github.com/geerlingguy/ansible-role-docker): Docker APT repository override support for mirrors, caches, and restricted-network deployments
 - [HybridOps Blog](https://hybridops.tech/blog)
+- [HybridOps technical papers](https://hybridops.tech/papers): long-form work on reproducible practical environments, infrastructure governance, and recovery operations
 - [HackerNoon](https://hackernoon.com/u/jeleel_muibi)
 - [DZone](https://dzone.com/users/5524956/hybridops.html)
 
