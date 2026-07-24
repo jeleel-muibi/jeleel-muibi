@@ -15,11 +15,20 @@ The focus is on making infrastructure easier to inspect, reproduce, recover, and
 ## HybridOps Entry Points
 
 - [Platform overview](https://hybridops.tech/why)
+- [Technical papers](https://hybridops.tech/papers)
 - [Documentation](https://docs.hybridops.tech)
 - [Capability map](https://docs.hybridops.tech/evidence_map)
 - [Reference scenarios](https://docs.hybridops.tech/reference-scenarios/)
 - [Platform modules](https://docs.hybridops.tech/platform/modules/)
 - [Blueprint registry](https://docs.hybridops.tech/platform/blueprints/)
+
+## Selected Technical Papers
+
+- [HybridOps: a contract runtime for reproducible infrastructure operations](https://hybridops.tech/papers/hybridops-contract-runtime-technical-review-v1.0.pdf)
+- [Build, boot, verify, publish](https://hybridops.tech/papers/build-boot-verify-publish-v1.0.pdf): a controlled evaluation of a virtual-machine template lifecycle across Linux and Windows on Proxmox
+- [From demonstration to reproducible learner lab](https://hybridops.tech/papers/reproducible-network-training-labs-v1.0.pdf)
+- [Authority before automation](https://hybridops.tech/papers/authority-before-automation-v1.0.pdf)
+- [Recovery is an operating model, not a pipeline](https://hybridops.tech/papers/recovery-operating-model-v1.0.pdf)
 
 ## Engineering Focus
 
