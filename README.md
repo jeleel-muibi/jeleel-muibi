@@ -16,6 +16,10 @@ I created [HybridOps](https://hybridops.tech), an open-source contract runtime t
 - Contributing to the NetBox Ansible collection through maintainer-reviewed [PR #1547](https://github.com/netbox-community/ansible_modules/pull/1547) and [PR #1546](https://github.com/netbox-community/ansible_modules/pull/1546)
 - Contributing upstream to [`community.proxmox`](https://github.com/ansible-collections/community.proxmox) and [`geerlingguy/ansible-role-docker`](https://github.com/geerlingguy/ansible-role-docker)
 
+## Writing & Recognition
+
+Published on DZone and HackerNoon. In August 2026, HackerNoon ranked me [#9 on its Top Writers list](https://hackernoon.com/c/hackernoon).
+
 ## Selected Engineering Work
 
 - [`terraform-proxmox-sdn`](https://github.com/hybridops-tech/terraform-proxmox-sdn): Proxmox SDN networking module
