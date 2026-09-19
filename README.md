@@ -14,7 +14,7 @@ My upstream work spans network operating-system behaviour, cloud-init regression
 
 ## Published writing
 
-I write about infrastructure governance, platform engineering and recovery on [HackerNoon](https://hackernoon.com/u/jeleel_muibi) and [DZone](https://dzone.com/users/5524956/hybridops.html). My work has been published and featured on both platforms, and I ranked No. 9 on HackerNoon's Top Writers list in August 2026.
+I write about infrastructure governance, platform engineering and recovery on [HackerNoon](https://hackernoon.com/u/jeleel_muibi) and [DZone](https://dzone.com/users/5524956/hybridops.html). In 2026, my work became the [lead story on HackerNoon's homepage](https://www.linkedin.com/feed/update/urn:li:activity:7503442995854184449/) and I [ranked No. 9 on its Top Writers list](https://www.linkedin.com/feed/update/urn:li:activity:7498294581743144960/).
 
 ## Explore HybridOps
 
