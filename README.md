@@ -12,6 +12,10 @@ I publish Terraform modules and Ansible collections through GitHub, [Terraform R
 
 My upstream work spans network operating-system behaviour, cloud-init regression engineering, infrastructure modules and operator documentation.
 
+## Published writing
+
+I write about infrastructure governance, platform engineering and recovery on [HackerNoon](https://hackernoon.com/u/jeleel_muibi) and [DZone](https://dzone.com/users/5524956/hybridops.html). My work has been published and featured on both platforms, and I ranked No. 9 on HackerNoon's Top Writers list in August 2026.
+
 ## Explore HybridOps
 
 - [Platform](https://hybridops.tech)
