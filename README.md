@@ -1,6 +1,6 @@
 # Jeleel Muibi
 
-Founder & Platform Engineer at [HybridOps Technologies](https://hybridops.tech) and creator of [HybridOps](https://github.com/hybridops-tech/hybridops-core).
+Founder & Infrastructure Engineer at [HybridOps Technologies](https://hybridops.tech) and creator of [HybridOps](https://github.com/hybridops-tech/hybridops-core).
 
 I design governed infrastructure systems across data-centre and cloud environments, with a focus on authority, readiness validation, network engineering, recovery and lifecycle control.
 
