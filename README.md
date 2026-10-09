@@ -8,13 +8,13 @@ HybridOps is an open-source contract runtime that turns declared infrastructure 
 
 ## Open-source engineering
 
-I publish Terraform modules and Ansible collections through GitHub, [Terraform Registry](https://registry.terraform.io/modules/hybridops-tech/sdn/proxmox/latest) and [Ansible Galaxy](https://galaxy.ansible.com/ui/namespaces/hybridops/), and contribute across the VyOS, cloud-init, NetBox, Proxmox and Ansible open-source ecosystems.
+I publish Terraform modules and Ansible collections through GitHub, [Terraform Registry](https://registry.terraform.io/modules/hybridops-tech/sdn/proxmox/latest) and [Ansible Galaxy](https://galaxy.ansible.com/ui/namespaces/hybridops/).
 
-My upstream work spans network operating-system behaviour, cloud-init regression engineering, infrastructure modules and operator documentation.
+My accepted upstream work spans VyOS runtime, VyOS cloud-init and documentation, NetBox Ansible, community.proxmox and Geerling Docker, and I hold the [VyOS Contributor 2026](https://www.credly.com/badges/dfd15f22-24c1-4780-a92d-db7ca0040270) credential.
 
 ## Published writing
 
-I write about infrastructure governance, platform engineering and recovery on [HackerNoon](https://hackernoon.com/u/jeleel_muibi) and [DZone](https://dzone.com/users/5524956/hybridops.html). In 2026, my work became the [lead story on HackerNoon's homepage](https://www.linkedin.com/feed/update/urn:li:activity:7503442995854184449/) and I [ranked No. 9 on its Top Writers list](https://www.linkedin.com/feed/update/urn:li:activity:7498294581743144960/).
+I write about infrastructure governance, platform engineering and recovery on [HackerNoon](https://hackernoon.com/u/jeleel_muibi) and [DZone](https://dzone.com/users/5524956/hybridops.html). In 2026, HackerNoon ranked me No. 7 overall and No. 6 among its Engineering Top Writers, featured my work as its [lead homepage story](https://www.linkedin.com/feed/update/urn:li:activity:7503442995854184449/) and published a [Writers Spotlight profile](https://hackernoon.com/meet-jeleel-muibi-building-infrastructure-that-can-explain-its-failures).
 
 ## Explore HybridOps
 
