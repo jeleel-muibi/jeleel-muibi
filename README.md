@@ -30,3 +30,5 @@ I write about infrastructure governance, platform engineering and recovery on [H
 - [Proxmox SDN Terraform module](https://github.com/hybridops-tech/terraform-proxmox-sdn)
 - [HybridOps workloads](https://github.com/hybridops-tech/hybridops-workloads)
 - [HybridOps Terraform Git modules](https://github.com/hybridops-tech/hybridops-terraform-gitmods)
+
+A lighter origin story: [GoatOps incident report](https://hybridops.tech/goatops).
